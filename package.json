@@ -17,5 +17,17 @@
         "path": "./themes/ISWorkshop Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "iznogoud",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ivicastasuk/isworkshop-dark.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "isworkshop",
+    "dark",
+    "color-theme",
+    "theme"
+  ]
 }
