@@ -1,0 +1,21 @@
+{
+  "name": "isworkshop-dark",
+  "displayName": "ISWorkshop Dark",
+  "description": "My first VSCode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ISWorkshop Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ISWorkshop Dark-color-theme.json"
+      }
+    ]
+  }
+}
