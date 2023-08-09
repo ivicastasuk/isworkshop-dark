@@ -2,7 +2,7 @@
   "name": "isworkshop-dark",
   "displayName": "ISWorkshop Dark",
   "description": "My first VSCode theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -20,8 +20,8 @@
   },
   "publisher": "iznogoud",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/ivicastasuk/isworkshop-dark.git"
+    "type": "git",
+    "url": "https://github.com/ivicastasuk/isworkshop-dark.git"
   },
   "license": "MIT",
   "keywords": [
